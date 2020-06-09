@@ -1,5 +1,4 @@
-<img src="assets/trump_briefing.jpg" width="300">
-<img src="assets/veep_briefing.jpg" width="300">
+<img src="assets/trump_briefing.jpg" width="300"><img src="assets/veep_briefing.jpg" width="300">
 
 # Whitehouse Speeches IRL vs Veep
 
